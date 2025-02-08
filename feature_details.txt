@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a conflicting change in the main branch.
+=======
+This file describes a new feature to be implemented.
+>>>>>>> feature-update
